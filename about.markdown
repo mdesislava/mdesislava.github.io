@@ -6,36 +6,57 @@ permalink: /about/
 
 # Who am I?
 
-A former Art student, 
+- A former Art student, 
 
-a *Bachelor* in History 
+- a *Bachelor* in History 
 
-and a *Master of Arts* in 'Crisis, conflicts and diplomacy in world politics XVI-XXI c.
+-  a *Master of Arts* in 'Crisis, conflicts and diplomacy in world politics XVI-XXI c.
 
 # Interests:
 
-Fine and Decorative *Arts*, 
+- Fine and Decorative *Arts*
 
-*Design* and Photography, 
+- *Design* and Photography
 
-Creative writing and Publishing, 
+- Creative writing and Publishing
 
-*Computer Sciences*.
+- *Computer Sciences*.
 
 # Former experience: 
 
-Tourism *(Accounting Manager)*, Book Trading, Starbucks *(Barista)* and KFC.
+- Tourism *(Accounting Manager)*
+
+- Book Trading
+
+- Starbucks *(Barista)* 
+
+- KFC.
 
 # Languages: 
 
-Italian *(B1)* and English *(B2)*.
+- Italian *(B1)* 
+- English *(B2)*.
 
 # Other knowledge:
 
- *Fluent* in Microsoft and Libre Office,
+ *Fluent* in: 
 
- *Microsoft and Linux operating systems*, 
+ - Microsoft and Libre Office
 
- *Photoshop, GIMP, CorelDraw, Inkscape*. 
+ - *Microsoft and Linux operating systems* 
 
- *Basic knowledge* of *HTML, CCS and JavaScript*.
+ - *Photoshop
+
+ - GIMP
+
+ - CorelDraw
+
+ - Inkscape*
+
+ *Basic knowledge* of:
+
+ - *HTML
+
+ - CCS 
+
+ - JavaScript*
