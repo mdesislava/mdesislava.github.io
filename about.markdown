@@ -45,18 +45,18 @@ permalink: /about/
 
  - *Microsoft and Linux operating systems* 
 
- - *Photoshop
+ - *Photoshop*
 
- - GIMP
+ - *GIMP*
 
- - CorelDraw
+ - *CorelDraw*
 
- - Inkscape*
+ - *Inkscape*
 
- *Basic knowledge* of:
+ Basic knowledge of:
 
- - *HTML
+ - *HTML*
 
- - CCS 
+ - *CCS*
 
- - JavaScript*
+ - *JavaScript*
