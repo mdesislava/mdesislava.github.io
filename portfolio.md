@@ -27,4 +27,5 @@ permalink: /portfolio/
 <div class="gallery">
 <img src="/uploads/brandindentity/bussinescard01.jpg" width="336">
 <img src="/uploads/brandindentity/bussinescard02.jpg" width="336">
+<img src="/uploads/brandindentity/brochure.jpg" width="676">
 </div>
