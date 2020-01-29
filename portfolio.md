@@ -11,15 +11,16 @@ permalink: /portfolio/
 # Logos
 
 <div class="gallery">
-<img src="/uploads/logos/BIO.jpg" width="700">
-<img src="/uploads/logos/ONE.jpg" width="650">
+<img src="/uploads/logos/BIO.jpg" width="350">
+<img src="/uploads/logos/ONE.jpg" width="350">
+<img src="/uploads/logos/BlueBalloons.jpg" width="350">
+<img src="/uploads/logos/BlueOcean.jpg" width="350">
 <img src="/uploads/logos/MDPublishing.jpg" width="700">
 <img src="/uploads/logos/BooksCafe.jpg" width="700">
 <img src="/uploads/logos/Airly.jpg" width="700">
 <img src="/uploads/logos/Farfalla.jpg" width="700">
 <img src="/uploads/logos/RedOrange.jpg" width="700">
-<img src="/uploads/logos/BlueBalloons.jpg" width="350">
-<img src="/uploads/logos/BlueOcean.jpg" width="350">
+
 </div>
 
 # Brand identity
