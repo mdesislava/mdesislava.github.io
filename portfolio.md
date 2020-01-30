@@ -8,7 +8,7 @@ permalink: /portfolio/
 ---
 
 
-# Logos
+## Logos
 
 <div class="gallery">
 <img src="/uploads/logos/BIO.jpg" width="350">
@@ -22,12 +22,15 @@ permalink: /portfolio/
 <img src="/uploads/logos/RedOrange.jpg" width="700">
 </div>
 
-# Brand identity
+## Brand identity
 
-<div class="gallery">
+### Business card
 <img src="/uploads/brandindentity/bussinescard01.jpg" width="336">
 <img src="/uploads/brandindentity/bussinescard02.jpg" width="336">
+
+### Brochure 
 <img src="/uploads/brandindentity/brochure.jpg" width="676">
+
+### Calendar
 <img src="/uploads/brandindentity/calendar02.jpg" width="676">
 <img src="/uploads/brandindentity/calendar.jpg" width="676">
-</div>
