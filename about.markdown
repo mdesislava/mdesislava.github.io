@@ -8,9 +8,9 @@ permalink: /about/
 
 - A former Art student, 
 
-- a *Bachelor* in History 
+- a *Bachelor* in History,
 
--  a *Master of Arts* in 'Crisis, conflicts and diplomacy in world politics XVI-XXI c.
+-  a *Master of Arts* in 'Crisis, conflicts and diplomacy in world politics XVI-XXI c.'
 
 # Interests:
 
@@ -20,7 +20,7 @@ permalink: /about/
 
 - Creative writing and Publishing
 
-- *Computer Sciences*.
+- *Computer Sciences*
 
 # Former experience: 
 
@@ -30,12 +30,12 @@ permalink: /about/
 
 - Starbucks *(Barista)* 
 
-- KFC.
+- KFC
 
 # Languages: 
 
 - Italian *(B1)* 
-- English *(B2)*.
+- English *(B2)*
 
 # Other knowledge:
 
